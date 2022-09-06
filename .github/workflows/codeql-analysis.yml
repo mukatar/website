@@ -9,8 +9,9 @@
 # the `language` matrix defined below to confirm you have the correct set of
 # supported CodeQL languages.
 #
-name: "CodeQL"
-
+name: "blog"
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4014564904105012"
+     crossorigin="anonymous"></script>
 on:
   push:
     branches: [ "main" ]
